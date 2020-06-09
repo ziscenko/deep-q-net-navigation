@@ -50,7 +50,7 @@ The solution, as implemented and saved in the accompanying `checkpoint.pth` file
 
 ### Results
 
-The figure below and the training callback output below illustrate how the algorithm converges to maintaining an average over 13 points for 100 consecutive episodes  over the course of the 401 episodes. 
+The figure below and the training callback output below illustrate how the algorithm converges to maintaining an average over 13 points for 100 consecutive episodes over the course of the 401 episodes. 
 
     Episode 1	Average Score: 0.002
     Episode 100	Average Score: 2.21
@@ -60,6 +60,7 @@ The figure below and the training callback output below illustrate how the algor
     Episode 401	Average Score: 13.06
     Environment solved in 301 episodes!	Average Score: 13.06
 
+![Image](nav_result.png)
 
 ### Potential areas for further work
 
