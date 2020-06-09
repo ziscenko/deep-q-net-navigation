@@ -39,5 +39,3 @@ The task is episodic, and in order to solve the environment, your agent must get
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 ### Credit
 Original project and notebook are from Udacity's Deep Reinforcement Learning Nanodegree
-
->>>>>>> e2948500252f9688097ba65765372d6d1766c728
