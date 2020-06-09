@@ -34,8 +34,12 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the base folder, and unzip (or decompress) the file. 
 
-### Instructions
+3. To recreate the environment in which this code was created and ran without errors, run the following from the command line (or alternatively run all the cells in the notebook): 
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+    `pip -q install -r requirements.txt` 
+
+4. Open `Navigation.ipynb` in Jupyter notebook or Jupyter Lab.
+
+ 
 ### Credit
-Original project and notebook are from Udacity's Deep Reinforcement Learning Nanodegree
+The project and notebook are adapted from Udacity's [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning).
