@@ -9,9 +9,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Checkpoints
-checkpoint*
-
 # Unity engine data
 Banana_Windows_x86_64/
 unity-environment.*
